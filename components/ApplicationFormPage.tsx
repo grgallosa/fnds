@@ -134,10 +134,10 @@ const handleChange = (
       <div className="pt-20 px-6">
         <div className="max-w-xl mx-auto">
           <div className="mb-6 text-center md:text-left">
-            <h1 className="text-2xl md:text-3xl font-black text-slate-900 dark:text-white mb-2 tracking-tight uppercase">
+            <h1 className="text-2xl md:text-3xl text-center font-black text-slate-900 dark:text-white mb-2 tracking-tight uppercase">
               Apply for Service
             </h1>
-            <p className="text-slate-600 dark:text-slate-500 text-xs font-medium leading-relaxed">
+            <p className="text-slate-600 dark:text-slate-500 text-xs text-center font-medium leading-relaxed">
               Tell us where you are and we'll reach out within 48 hours to schedule a site check.
             </p>
           </div>
